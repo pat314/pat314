@@ -94,16 +94,27 @@
 
 ## GitHub Stats ️🎯
 
+<div align="center">
+  
 | <a href="https://github.com/tuphan22028238?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tuphan22028238&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="tuphan22028238's github stats" /></a> | <a href="https://github.com/tuphan22028238?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuphan22028238&langs_count=10&layout=compact&theme=gotham" /></a> |
 | ------------- | ------------- |
 
+</div>
+
+
 ## GitHub Streak 🔥
 
+<div align="center">
+  
 [![](https://github-readme-streak-stats.herokuapp.com/?user=tuphan22028238&theme=gotham)](https://github.com/tuphan22028238?tab=repositories)
+
+</div>
 
 
 ## Top Repositories 🌟
 
+<div align="center">
+  
 <a href="https://github.com/tuphan22028238/First_Game_SDL2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuphan22028238&repo=First_Game_SDL2&show_owner=true&theme=gotham" />
 </a>
@@ -117,20 +128,20 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuphan22028238&repo=books_archive&show_owner=true&theme=gotham" />
 </a>
 
+
+</div>
+
+
+
 <br />
 <br />
 
 ## Music 🎧
 
-nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7?si=f41fa698f6424714)
-</div>
-<div align="left">
-  <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
-  <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
-  <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
-<p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>  
-</div>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&width=1000)
+
+
 
 
 ## Donation 🥰 
