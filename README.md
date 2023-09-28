@@ -124,8 +124,8 @@
 <a href="https://github.com/tuphan22028238/OOP_Dictionary_2023">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuphan22028238&repo=OOP_Dictionary_2023&show_owner=true&theme=gotham" />
 </a>
-<a href="https://github.com/tuphan22028238/books_archive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuphan22028238&repo=books_archive&show_owner=true&theme=gotham" />
+<a href="https://github.com/tuphan22028238/HackerrankDatabase">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuphan22028238&repo=HackerrankDatabase&show_owner=true&theme=gotham" />
 </a>
 
 
