@@ -104,21 +104,8 @@
 
 ## GitHub Summary 🔥
 
-<div align="center">
-	
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuphan22028238&theme=2077)
 
-
-</div>
-
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tuphan22028238/tuphan22028238/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuphan22028238/tuphan22028238/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/tuphan22028238/tuphan22028238/output-3d-contrib/day.svg" />
-	</picture>
-</p>
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## Top Repositories 🌟
 
