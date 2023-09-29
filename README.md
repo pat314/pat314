@@ -96,17 +96,18 @@
 
 <div align="center">
   
-| <a href="https://github.com/tuphan22028238?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tuphan22028238&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="tuphan22028238's github stats" /></a> | <a href="https://github.com/tuphan22028238?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuphan22028238&langs_count=10&layout=compact&theme=gotham" /></a> |
+| <a href="https://github.com/tuphan22028238?tab=repositories"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuphan22028238&theme=2077" alt="tuphan22028238's github stats" /></a> | <a href="https://github.com/tuphan22028238?tab=repositories"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuphan22028238&theme=2077" /></a> |
 | ------------- | ------------- |
 
 </div>
 
 
-## GitHub Streak 🔥
+## GitHub Summary 🔥
 
 <div align="center">
-  
-[![](https://github-readme-streak-stats.herokuapp.com/?user=tuphan22028238&theme=gotham)](https://github.com/tuphan22028238?tab=repositories)
+	
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuphan22028238&theme=2077)
+
 
 </div>
 
