@@ -1,3 +1,0 @@
-{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
-{{ template "daily-table" .Weathers }}
-{{ formatTime .UpdatedAt }}
