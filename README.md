@@ -111,6 +111,8 @@
 </div>
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tuphan22028238&theme=gotham&border_radius=6)](https://github.com/tuphan22028238?tab=repositories)
+
 ## Top Repositories 🌟
 
 <div align="center">
