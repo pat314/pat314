@@ -111,7 +111,13 @@
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tuphan22028238&theme=gotham)](https://git.io/streak-stats)
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tuphan22028238/tuphan22028238/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuphan22028238/tuphan22028238/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/tuphan22028238/tuphan22028238/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
 
 ## Top Repositories 🌟
