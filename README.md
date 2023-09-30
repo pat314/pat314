@@ -34,7 +34,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+
+## <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px></picture> **Skills**
 <br>
 
 <br>
@@ -46,7 +48,7 @@
     ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)&nbsp;
     ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java)&nbsp;
 
-<br> 
+<br>
 
 <br>   
     
@@ -56,10 +58,14 @@
 
 <br>
 
+<br>
+
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
+<br>
+
 <br>
 
 - **Softwares and Tools**:
@@ -71,7 +77,10 @@
 
 <br>
 
-## Contacts ️📭
+
+
+
+## <picture><img src = "https://github.com/tuphan22028238/tuphan22028238/assets/124888378/daa86a30-418e-4728-90dc-64b50a1fe1dd" width = 50px></picture> **Contacts**
 
 <p align="center">
 
@@ -91,8 +100,7 @@
 <br>
 
 
-
-## GitHub Stats ️🎯
+## <picture><img src = "https://github.com/tuphan22028238/tuphan22028238/assets/124888378/ab5c45f6-24b5-4fe7-8cf9-cfc7e7cfdd09" width = 50px></picture> **GitHub Stats**
 
 <div align="center">
   
@@ -101,14 +109,17 @@
 
 </div>
 
-## Box chat!! ️🧑‍💻
-
-![terminal (1)](https://github.com/tuphan22028238/tuphan22028238/assets/124888378/c5b7f6fd-49ad-4224-bdd2-84cde7ac165e)
 
 
+## <picture><img src = "https://github.com/tuphan22028238/tuphan22028238/assets/124888378/cc6c889f-3f1e-42c0-ae51-e343a362f52a" width = 50px></picture> **Q&A!!**
+
+<p align="center">
+    <img src="https://github.com/tuphan22028238/tuphan22028238/assets/124888378/c5b7f6fd-49ad-4224-bdd2-84cde7ac165e">
+</p>
 
 
-## GitHub Summary 🔥
+
+## <picture><img src = "https://github.com/tuphan22028238/tuphan22028238/assets/124888378/b7460013-1959-41a7-9796-fdca7bde0994" width = 50px></picture> **GitHub Summary**
 
 <p align="center" >
 	<picture>
@@ -120,7 +131,8 @@
 
 
 
-## Top Repositories 🌟
+
+## <picture><img src = "https://github.com/tuphan22028238/tuphan22028238/assets/124888378/8766ccef-c3d6-4672-b1ba-36e62d624e6d" width = 50px></picture> **Top Repositories**
 
 <div align="center">
   
@@ -133,8 +145,8 @@
 <a href="https://github.com/tuphan22028238/OOP_Dictionary_2023">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuphan22028238&repo=OOP_Dictionary_2023&show_owner=true&theme=gotham" />
 </a>
-<a href="https://github.com/tuphan22028238/HackerrankDatabase">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuphan22028238&repo=HackerrankDatabase&show_owner=true&theme=gotham" />
+<a href="https://github.com/tuphan22028238/books_archive">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuphan22028238&repo=books_archive&show_owner=true&theme=gotham" />
 </a>
 
 
@@ -145,8 +157,9 @@
 <br />
 <br />
 
-## Music 🎧
 
+
+## <picture><img src = "https://github.com/tuphan22028238/tuphan22028238/assets/124888378/a74b00ab-30d3-4cf3-859b-c13464e6a079" width = 50px></picture> **Music**
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21grss4u46blxnpkbsfh7a4oi&width=1000)
 
