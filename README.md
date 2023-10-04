@@ -96,6 +96,7 @@
 <a href="https://chat.zalo.me/" target="blank"><img align="center" src="https://img.shields.io/badge/Phan_Tu-0A68FE?style=flat-square&logo=zalo&logoColor=white" /></a>
 <a href="https://discord.com/#7595" target="blank"><img align="center" src="https://img.shields.io/badge/atp.457314-436EEE?style=flat-square&logo=discord&logoColor=white" /></a>
 
+![](https://komarev.com/ghpvc/?username=tuphan22028238&style=flat-square)
 
 <br>
 
