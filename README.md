@@ -20,7 +20,7 @@
 <br>
 
 
-- Hello, and welcome to my GitHub profile! My name is Phan Anh Tu, and I am curently a Computer Science student with a passion for creating engaging and user-friendly web applications. 
+- Hello, and welcome to my GitHub profile! My name is Phan Anh Tu, and I am curently a Computer Science student with a passion for creating engaging and user-friendly applications. 
 
 - Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
 
