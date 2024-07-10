@@ -20,11 +20,11 @@
 <br>
 
 
-- Hello, and welcome to my GitHub profile! My name is Phan Anh Tu, and I am curently a Computer Science student with a passion for creating engaging and user-friendly applications. 
+- Hello, and welcome to my GitHub profile! My name is Phan Anh Tu, and I am curently a Computer Science student with a passion in Data Science and Artificial Intelligence. 
 
-- Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
+- Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in Data engineer.
 
-- My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
+- My ultimate goal is to design, build, and maintain scalable and reliable data infrastructure and pipelines to ensure efficient data collection, storage, processing, and accessibility for analysis and decision-making..
 
 - I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:tuphananh57@gmail.com">tuphananh57@gmail.com</a>
 
@@ -137,16 +137,16 @@
 
 <div align="center">
   
-<a href="https://github.com/tuphan22028238/First_Game_SDL2">
+<a href="https://github.com/pat314/First_Game_SDL2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuphan22028238&repo=First_Game_SDL2&show_owner=true&theme=gotham" />
 </a>
-<a href="https://github.com/tuphan22028238/DSA">
+<a href="https://github.com/pat314/DSA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuphan22028238&repo=DSA&show_owner=true&theme=gotham" />
 </a>
-<a href="https://github.com/tuphan22028238/OOP_Dictionary_2023">
+<a href="https://github.com/pat314/OOP_Dictionary_2023">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuphan22028238&repo=OOP_Dictionary_2023&show_owner=true&theme=gotham" />
 </a>
-<a href="https://github.com/tuphan22028238/HackerrankDatabase">
+<a href="https://github.com/pat314/HackerrankDatabase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuphan22028238&repo=HackerrankDatabase&show_owner=true&theme=gotham" />
 </a>
 
