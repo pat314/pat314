@@ -143,11 +143,11 @@
 <a href="https://github.com/pat314/DSA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pat314&repo=DSA&show_owner=true&theme=gotham" />
 </a>
-<a href="https://github.com/pat314/OOP_Dictionary_2023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pat314&repo=OOP_Dictionary_2023&show_owner=true&theme=gotham" />
+<a href="https://github.com/pat314/OOP_Project_EVLD_2023">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pat314&repo=OOP_Project_EVLD_2023&show_owner=true&theme=gotham" />
 </a>
-<a href="https://github.com/pat314/HackerrankDatabase">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pat314&repo=HackerrankDatabase&show_owner=true&theme=gotham" />
+<a href="https://github.com/pat314/OSTools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pat314&repo=OSTools&show_owner=true&theme=gotham" />
 </a>
 
 
