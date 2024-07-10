@@ -133,7 +133,7 @@
 
 
 
-## <picture><img src = "https://github.com/tuphan22028238/tuphan22028238/assets/124888378/8766ccef-c3d6-4672-b1ba-36e62d624e6d" width = 50px></picture> **Top Repositories**
+## <picture><img src = "https://github.com/pat314/pat314/assets/124888378/8766ccef-c3d6-4672-b1ba-36e62d624e6d" width = 50px></picture> **Top Repositories**
 
 <div align="center">
   
@@ -168,6 +168,6 @@
 
 
 ## Donation 🥰 
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, please follow me, and maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/22028238g" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
